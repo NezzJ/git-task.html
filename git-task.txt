@@ -1,2 +1,2 @@
-git practice
+
 about git: git is a version control tool.
