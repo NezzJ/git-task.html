@@ -1,2 +1,2 @@
 git practice
-git tutorial
+about git: git is a version control tool.
