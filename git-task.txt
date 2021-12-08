@@ -1,2 +1,3 @@
-git is different from git huba
+git is different from git hub
 about git: git is a version control tool.
+git tutorial.
